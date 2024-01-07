@@ -1,0 +1,11 @@
+{
+  "server-ip": "mivem.xyz",
+  "server-version": "1.16.3",
+  "mods": {
+    "optifine": {
+      "download": "https://raw.githubusercontent.com/Kotsasmin/hoodliferp/main/OptiFine_1.16.3_HD_U_G5_MOD.jar"
+    },
+    "mod.jar": {
+      "download": "lol"
+    }
+}
